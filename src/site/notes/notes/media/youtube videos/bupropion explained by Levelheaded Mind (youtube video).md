@@ -7,9 +7,9 @@
 
 ## Metadata
 
-- [title:: Bupropion (Wellbutrin) | The most versatile Antidepressant!]
-- [channel:: Levelheaded Mind]
-- [URL:: https://youtu.be/lfCq022mW6o]
+- [title:: "Bupropion (Wellbutrin) | The most versatile Antidepressant!""]
+- [channel:: "Levelheaded Mind"]
+- [URL:: "https://youtu.be/lfCq022mW6o"]
 
 ## Notes
 
