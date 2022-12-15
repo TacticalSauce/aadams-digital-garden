@@ -14,8 +14,9 @@ Hello World! You have arrived at my digital garden's homepage.
 
 ## Share
 
-*notes to share with people*
-
-- [[notes/media/youtube videos/bupropion explained by Levelheaded Mind (youtube video)\|bupropion explained by Levelheaded Mind (youtube video)]]
-- [[notes/media/youtube videos/bupropion explained by Eric Richardson (youtube video)\|bupropion explained by Eric Richardson]]
-- [[notes/media/studies/atomoxetine induced hypomania in a patient with bipolar disorder and adult ADHD (study)\|atomoxetine induced hypomania in a patient with bipolar disorder and adult ADHD (study)]]
+- **Chris**
+	- [[inbox/jottings/comparing iphone models for Chris\|comparing iphone models for Chris]]
+- Dani
+	- [[notes/media/youtube videos/bupropion explained by Levelheaded Mind (youtube video)\|bupropion explained by Levelheaded Mind (youtube video)]]
+	- [[notes/media/youtube videos/bupropion explained by Eric Richardson (youtube video)\|bupropion explained by Eric Richardson]]
+	- [[notes/media/studies/atomoxetine induced hypomania in a patient with bipolar disorder and adult ADHD (study)\|atomoxetine induced hypomania in a patient with bipolar disorder and adult ADHD (study)]]
