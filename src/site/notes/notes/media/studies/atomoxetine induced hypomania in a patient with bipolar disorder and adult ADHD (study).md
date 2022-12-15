@@ -7,9 +7,9 @@
 
 ## Metadata
 
-- [doi:: 10.4103/0253-7176.198954.]
+- [doi:: "10.4103/0253-7176.198954."]
 - [published_on-date:: 2017-02-01]
-- [URL:: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5329999/]
+- [URL:: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5329999/"]
 
 ## Notes
 
