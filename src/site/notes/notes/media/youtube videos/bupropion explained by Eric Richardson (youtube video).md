@@ -7,9 +7,9 @@
 
 ## Metadata
 
-- [title:: BUPROPION (WELLBUTRIN): Treatment for Depression/What are the Side Effects?]
-- [channel:: Erik Richardson D.O.]
-- [URL:: https://youtu.be/yinvdeTgP4w]
+- [title:: "BUPROPION (WELLBUTRIN): Treatment for Depression/What are the Side Effects?"]
+- [channel:: "Erik Richardson D.O."]
+- [URL:: "https://youtu.be/yinvdeTgP4w"]
 
 ## Notes
 
