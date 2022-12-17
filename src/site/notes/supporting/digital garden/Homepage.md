@@ -15,7 +15,7 @@ Hello World! You have arrived at my digital garden's homepage.
 ## Share
 
 - **Chris**
-	- [[inbox/jottings/comparing iphone models for Chris\|comparing iphone models for Chris]]
+	- [[jottings/other/comparing iPhone models for Chris\|comparing iPhone models for Chris]]
 - Dani
 	- [[notes/media/youtube videos/bupropion explained by Levelheaded Mind (youtube video)\|bupropion explained by Levelheaded Mind (youtube video)]]
 	- [[notes/media/youtube videos/bupropion explained by Eric Richardson (youtube video)\|bupropion explained by Eric Richardson]]
