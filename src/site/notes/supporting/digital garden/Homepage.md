@@ -15,4 +15,3 @@ Hello World! You have arrived at my digital garden's homepage.
 ## Share
 
 - [[inbox/other/checklist when buying an iPhone\|checklist when buying an iPhone]]
-- [[jottings/other/comparing iPhone models for Chris\|comparing iPhone models for Chris]]
