@@ -14,9 +14,5 @@ Hello World! You have arrived at my digital garden's homepage.
 
 ## Share
 
-- **Chris**
-	- [[jottings/other/comparing iPhone models for Chris\|comparing iPhone models for Chris]]
-- Dani
-	- [[notes/media/youtube videos/bupropion explained by Levelheaded Mind (youtube video)\|bupropion explained by Levelheaded Mind (youtube video)]]
-	- [[notes/media/youtube videos/bupropion explained by Eric Richardson (youtube video)\|bupropion explained by Eric Richardson]]
-	- [[notes/media/studies/atomoxetine induced hypomania in a patient with bipolar disorder and adult ADHD (study)\|atomoxetine induced hypomania in a patient with bipolar disorder and adult ADHD (study)]]
+- [[inbox/other/checklist when buying an iPhone\|checklist when buying an iPhone]]
+- [[jottings/other/comparing iPhone models for Chris\|comparing iPhone models for Chris]]
