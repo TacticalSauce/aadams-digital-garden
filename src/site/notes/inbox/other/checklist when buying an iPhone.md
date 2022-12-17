@@ -5,8 +5,8 @@
 
 - when buying an iPhone:
 	1. verify serial # on [apple's website](https://checkcoverage.apple.com/ca/en/;jsessionid=node0nep5htcr81p1krqvptkaqz344262943.node0)
-		- *check that warranty is intact*
-		- *ensure it's not listed as stolen*
+		- check that warranty is intact
+		- *ensures the phone is not listed as stolen*
 	2. examine physical condition
 	3. sign in with Apple ID
 		- *ensures the phone's credentials are accepted by apple's servers*
