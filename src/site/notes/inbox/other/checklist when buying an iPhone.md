@@ -5,7 +5,7 @@
 
 # When buying an iPhone
 
-Here is a checklist to ensure you **don't get scammed!**
+*a simple checklist to ensure you **don't get scammed!***
 
 1. verify serial # on [apple's website](https://checkcoverage.apple.com/ca/en/;jsessionid=node0nep5htcr81p1krqvptkaqz344262943.node0)
 	- check that warranty is intact
