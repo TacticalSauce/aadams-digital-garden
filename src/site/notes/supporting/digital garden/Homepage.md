@@ -5,7 +5,7 @@
 
 # Aadam's Digital Garden
 
-Hello World! You have arrived at my digital garden's homepage.
+Hello World! You have arrived at my digital garden's homepage
 
 ## Quote of the Day
 
